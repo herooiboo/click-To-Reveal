@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://i.ibb.co/LhYLghR/download.png" alt="Screenshot">
+<img src="https://i.ibb.co/LhYLghR/download.png" style="border-radius:20px;width:100%;height:auto;" alt="Screenshot">
 
 if you want to reveal a certain Number/Text, Just open the Demo, Put the text/number, Click GO, A drum will show up, When you are ready to reveal just click the drum, and here you go!
 
