@@ -1,0 +1,38 @@
+#canvas {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0px;
+    z-index: 1;
+}
+
+#fireworks {
+    display: none;
+    overflow: hidden;
+}
+
+#reveal-txt {
+    color: white;
+    z-index: 100;
+    font-size: 58px;
+    display: none;
+    zoom: 1;
+    opacity: 0%;
+    text-align: center;
+}
+
+#second-reveal {
+    height: 100vh;
+    width: auto;
+    display: none;
+}
+
+#first-reveal {
+    height: 100vh;
+    width: auto;
+    cursor: pointer;
+}
+
+.h-100vh {
+    height: 100vh!important;
+}
